@@ -1,0 +1,43 @@
+{
+    "name": "Frogtrade FDP",
+    "description": "<p>The Frog Developer Platform (FDP) is a set of resources to enable third party developers to extend or add new functionality to Frog. Frog have released a number of APIs to enable third parties to securely access &amp; manipulate certain data within the Frog environment. For a full list of available methods, check out the API Reference<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/frong-developer-platform.png",
+    "tags": [
+        "api provider",
+        "gadgets",
+        "have api",
+        "javascript",
+        "widgets"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/frogtrade-fdp\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Frogtrade FDP",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/frong-developer-platform.png",
+            "humanURL": "http:\/\/fdp.frogcommunity.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/frogtrade-fdp-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/frog_fdp"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/fdp.frogcommunity.com"
+        }
+    ]
+}
